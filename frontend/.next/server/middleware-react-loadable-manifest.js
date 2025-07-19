@@ -1,1 +1,1 @@
-self.__REACT_LOADABLE_MANIFEST="{\"../components/Layout.js -> ./AdminNotifications\":{\"id\":\"../components/Layout.js -> ./AdminNotifications\",\"files\":[\"static/chunks/components_AdminNotifications_js.js\"]}}"
+self.__REACT_LOADABLE_MANIFEST='{"../components/Layout.js -> ./AdminNotifications":{"id":7872,"files":["static/chunks/66-831880690a22ce3c.js","static/chunks/872.e9a2b91cfd4146ef.js"]}}';

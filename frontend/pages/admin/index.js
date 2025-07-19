@@ -256,7 +256,7 @@ export default function AdminDashboard() {
           <div key={product.id} className="bg-white rounded-lg shadow-md overflow-hidden">
             {product.image_url && (
               <img
-                src={`http://localhost:5000${product.image_url}`}
+                src={`https://clothstore-98w2.onrender.com${product.image_url}`}
                 alt={product.name}
                 className="w-full h-48 object-cover"
               />
